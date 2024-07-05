@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rapid roll</string>
+
+    <string name="title">Rapid Roll</string>
+    <string name="new_game">New game</string>
+    <string name="Information">Information</string>
+    <string name="exit_game">Exit</string>
+    <string name="continue_game">Continue</string>
+
+    <string name="btn_left">Left</string>
+    <string name="btn_right">Right</string>
+</resources>
